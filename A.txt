@@ -1,1 +1,2 @@
 This is the A.txt file
+This is the second line of A.txt
